@@ -1,0 +1,25 @@
+# PortScan Detection Results
+Model: KNN Classic
+Prediction Time: 214,344.4300 seconds
+Model Memory: 119.1775 MB
+Storage Requirement: 100.00%
+Accuracy: 0.9999
+Recall: 0.9999
+F1-Score: 0.9999
+
+Model: KNN scikit-learn
+Prediction Time: 27.3383 seconds
+Model Memory: 119.1775 MB
+Storage Requirement: 100.00%
+Accuracy: 0.9999
+Recall: 0.9999
+F1-Score: 0.9999
+
+Model: New Model
+Prediction Time: 14.8987 seconds
+Model Memory: 0.0220 MB
+Storage Requirement: 0.0184%
+Accuracy: 0.9944
+Recall: 0.9903
+F1-Score: 0.9949
+

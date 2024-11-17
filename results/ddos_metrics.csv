@@ -1,0 +1,5 @@
+Model,Prediction Time (s),Model Memory (MB),Storage Requirement (%),Accuracy,Recall,F1-Score
+KNN Classic,105615.0015,94.0230,100.0000,0.9998,0.9997,0.9998
+KNN scikit-learn,16.8151,94.0230,100.0000,0.9998,0.9997,0.9998
+New Model,12.9658,0.0220,0.0184,0.9909,0.9977,0.9920
+

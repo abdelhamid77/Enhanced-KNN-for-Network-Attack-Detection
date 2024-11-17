@@ -1,0 +1,25 @@
+# DDoS Detection Results
+Model: KNN Classic
+Prediction Time: 105,615.0015 seconds
+Model Memory: 94.0230 MB
+Storage Requirement: 100.00%
+Accuracy: 0.9998
+Recall: 0.9997
+F1-Score: 0.9998
+
+Model: KNN scikit-learn
+Prediction Time: 16.8151 seconds
+Model Memory: 94.0230 MB
+Storage Requirement: 100.00%
+Accuracy: 0.9998
+Recall: 0.9997
+F1-Score: 0.9998
+
+Model: New Model
+Prediction Time: 12.9658 seconds
+Model Memory: 0.0220 MB
+Storage Requirement: 0.0184%
+Accuracy: 0.9909
+Recall: 0.9977
+F1-Score: 0.9920
+
