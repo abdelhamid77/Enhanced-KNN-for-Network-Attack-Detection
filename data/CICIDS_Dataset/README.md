@@ -15,7 +15,7 @@ data/
 ├── CICIDS_Dataset/
 │   ├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 │   ├── Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
-└── README.md
+└── README.md 
 
 Preprocessing Note
 
